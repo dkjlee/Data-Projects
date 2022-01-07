@@ -4,4 +4,4 @@
 - 📫 How to reach me - dkjlee95@gmail.com.
 
 # Data-Projects
-This is where I store my Data Science Projects
+This repository is where I store my Data Science Projects! Feel free to check out my Spotify Web API project above :).
